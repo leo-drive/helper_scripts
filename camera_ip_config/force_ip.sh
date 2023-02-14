@@ -1,7 +1,7 @@
 #!/bin/bash
 MAC1=1C0FAF2E667F # MAC address of camera1 
-MAC2=1C0FAF2E8016 # MAC address of camera2
-MAC3=1C0FAF2A7C10 # MAC address of camera3 
+MAC2=1C0FAF2A7C10# MAC address of camera2
+MAC3=1C0FAF2E8016 # MAC address of camera3 
 
 TOP_CAM_IP=169.207.128.102 # IP address of camera1 
 RIGHT_CAM_IP=169.219.0.68    # IP address of camera2
